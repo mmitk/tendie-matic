@@ -1,0 +1,18 @@
+Input Data:
+    Historic prices
+    Raw social media data(timestamp, poster) i.e. track WHEN certain influencial people tweet
+    Financial News
+    Volume 
+    POE 
+    POB 
+    RSI
+    Price Per Earnings
+    Volume relative to 52 week average (checkout finviz for interest generation?)
+    check indeces/funds and their % exposure
+
+
+Interest Generation:
+    check indeces/funds and their % exposure?
+    top X large cap companies
+    Social Media? --> scrape reddit, twitter etc.
+    
